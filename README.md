@@ -83,4 +83,4 @@ yarn start ios # for ios emulator
 
 [(Back to top)](#React-Native-Onboarding-Screens)
 
-Built by Ayan M 👋 [Get in touch!](https://www.linkedin.com/in/areasflavio/)
+Built by Ayan M 👋 [Get in touch!](https://www.linkedin.com/in/ayan-m-dev/)
